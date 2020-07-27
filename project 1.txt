@@ -1,7 +1,0 @@
-print("Merhaba")
-
-"""
-Ya da
-"""
-
-print('Merhaba')
