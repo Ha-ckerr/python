@@ -1,0 +1,13 @@
+cumartesi = "cumartesi"
+pazar = "pazar"
+asd = str
+asd = input("Bir gün girin:")
+if asd == pazar:
+    print("hafta sonu")
+else:
+    print("hafta içi")
+if asd == cumartesi:
+
+    print("hafta sonu")
+else:
+    print("hafta içi")
